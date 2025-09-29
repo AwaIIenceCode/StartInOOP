@@ -1,4 +1,8 @@
 ﻿using System;
+class Test
+{
+    
+}
 
 class MyClass
 {
