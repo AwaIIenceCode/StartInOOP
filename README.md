@@ -1,4 +1,4 @@
-# Note
+# StartInOOP
 A simple C# console app to manage notes using a Note class. Ideal for practicing OOP basics like encapsulation and method usage.
 
 ## 📖 About
